@@ -51,3 +51,4 @@ This module is developed for joindevops.com. we are creating following resources
 * private_subnet_ids: A list of 2 private subnet IDS created.
 * database_subnet_ids: A list of 2 database subnet IDS created.
 * database_subnet_group_id: A database subnet group ID created.
+* igw_id: internet gateway created.
